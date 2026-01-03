@@ -7,7 +7,7 @@
     "currentBidPrice": 5200,
     "timeLeft": "2h 30m",
     "bidsCount": 12,
-    "image": "https://picsum.photos/400/300?random=1"
+    "image": "https://i.ibb.co.com/0yqMymNj/Bid1-min.png"
   },
   {
     "id": 2,
@@ -16,17 +16,16 @@
     "currentBidPrice": 3200,
     "timeLeft": "5h 10m",
     "bidsCount": 8,
-    "image": "https://picsum.photos/400/300?random=2"
+    "image": "https://i.ibb.co.com/39TWkYch/Bid2-min.png"
   },
   {
     "id": 3,
-    "title": "Rolex Submariner 16610
-",
+    "title": "Rolex Submariner 16610",
     "description": "Fitness smart watch with heart rate monitor",
     "currentBidPrice": 7800,
     "timeLeft": "1d 3h",
     "bidsCount": 20,
-    "image": "https://picsum.photos/400/300?random=3"
+    "image": "https://i.ibb.co.com/q3qbxDrX/Bid4-min.png"
   },
   {
     "id": 4,
@@ -35,17 +34,16 @@
     "currentBidPrice": 4500,
     "timeLeft": "6h 45m",
     "bidsCount": 15,
-    "image": "https://picsum.photos/400/300?random=4"
+    "image": "https://i.ibb.co.com/tpVP57Wr/Bid6-min.png"
   },
   {
     "id": 5,
-    "title": "Mid-Century Modern Eames Lounge Chair
-",
+    "title": "Mid-Century Modern Eames Lounge Chair",
     "description": "50mm prime lens for professional photography",
     "currentBidPrice": 12500,
     "timeLeft": "12h 20m",
     "bidsCount": 18,
-    "image": "https://picsum.photos/400/300?random=5"
+    "image": "https://i.ibb.co.com/cKvR9Z4x/Bid5-min.png"
   },
   {
     "id": 6,
@@ -54,6 +52,6 @@
     "currentBidPrice": 2900,
     "timeLeft": "9h 5m",
     "bidsCount": 6,
-    "image": ""
+    "image": "https://i.ibb.co.com/v4tbDM9m/Bid7-min.png"
   }
 ]
